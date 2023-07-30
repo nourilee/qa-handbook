@@ -1,41 +1,26 @@
-# Website
+# 📘 QA Handbook 📘
+
+## Your Personal Guide to QA Excellence, Interviews, and Beyond! 🌟
+
+This QA Handbook is designed to empower Quality Assurance (QA) Engineers, both manual and automation specialists, with comprehensive resources for excelling in their QA roles and preparing for job interviews. Whether you're a seasoned QA professional or just starting your career in the QA domain, this handbook will be your go-to guide. 🚀
+
+
+---
+
+<div align="center">
+  <h3>
+    <a href="https://nourilee.github.io/qa-handbook/">Get Started!</a>
+  </h3>
+</div>
+
+---
+
+## What is this about?
+ 💡
+This project was inspired by the [Tech Interview Handbook](https://www.techinterviewhandbook.org) and the [Frontend Interview Handbook](https://github.com/yangshun/front-end-interview-handbook) created by [Yangshun Tay](https://github.com/yangshun).
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
-### Installation
+Found this handbook helpful? Why not **star** ⭐️ the repository to support the project!
 
-```
-$ yarn
-```
-
-### Local Development
-
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Contributions and suggestions are welcome! Please open an issue or submit a pull request. 🙌
