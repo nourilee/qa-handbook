@@ -64,9 +64,8 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Start Here ⬇️',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/santosn-qa',
             label: 'GitHub',
@@ -81,7 +80,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Start Here ⬇️',
                 to: '/docs/intro',
               },
             ],
