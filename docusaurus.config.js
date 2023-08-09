@@ -8,7 +8,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'QA Handbook',
   tagline: 'A Personal Guide to Mastering QA Excellence, Interviews, and Beyond!',
-  favicon: 'img/icons-code.ico',
 
   // Set the production url of your site here
   url: 'https://nourilee.github.io',
@@ -64,11 +63,14 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Start Here ⬇️',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/santosn-qa',
+            href: '/interview-preparation',
+            label: 'Quick Guide ⚡️',
+            position: 'left',
+          },          {
+            href: 'https://github.com/nourilee/qa-handbook',
             label: 'GitHub',
             position: 'right',
           },
@@ -81,7 +83,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Start Here ⬇️',
                 to: '/docs/intro',
               },
             ],
@@ -99,11 +101,11 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'About Me',
+                href: 'https://nourilee.github.io/about-me/',
               },
               {
-                label: 'GitHub',
+                label: 'My Portfolio',
                 href: 'https://github.com/santosn-qa',
               },
             ],
