@@ -66,7 +66,7 @@ const config = {
             label: 'Start Here ⬇️',
           },
           {
-            href: '/interview-preparation',
+            href: '/quick-guide',
             label: 'Quick Guide ⚡️',
             position: 'left',
           },          {

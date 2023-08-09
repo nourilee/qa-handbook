@@ -1,9 +1,8 @@
 {
     "position": 2,
-    "label": "Foundational Concepts and Methodologies",
+    "label": "Technical Interviews",
     "collapsible": true,
     "collapsed": false,
-    "className": "red",
     "link": {
       "type": "generated-index"
     }
