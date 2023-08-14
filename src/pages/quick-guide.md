@@ -44,11 +44,6 @@ title: Quick Guide to Software Testing
 - [Software Testing Stack Exchange](https://sqa.stackexchange.com/) - Q&A platform for software testers and QA professionals.
 - [Ministry of Testing](https://www.ministryoftesting.com/) - Community of software testers with resources and discussions.
 
-## Practice your skills:
-
-- [Software Testing MCQs at JavaTpoint](https://www.javatpoint.com/software-testing-mcq) - Test your knowledge with a collection of software testing multiple-choice questions.
-- [Bug Finding Challenges at AcademyBugs](https://academybugs.com/find-bugs/) - Sharpen your bug-spotting skills with interactive bug finding challenges and timebox yourself to find as many bugs as you can! Enhance your ability to identify and report defects by practicing on real-world scenarios.
-
 ## Books:
 
 1. "The Art of Software Testing" by Glenford J. Myers - Classic book on testing principles and techniques.
