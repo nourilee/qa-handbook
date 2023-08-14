@@ -69,7 +69,13 @@ const config = {
             href: '/quick-guide',
             label: 'Quick Guide ⚡️',
             position: 'left',
-          },          {
+          },         
+          {
+            href: '/practice',
+            label: 'Practice 🚀',
+            position: 'left',
+          },
+          {
             href: 'https://github.com/nourilee/qa-handbook',
             label: 'GitHub',
             position: 'right',

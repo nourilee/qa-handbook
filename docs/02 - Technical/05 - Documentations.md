@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+# Test Planning and Documentation
+=======
 # Test Planning and Documentation
 
 In technical interviews for software testing roles, candidates are often evaluated on their ability to create effective test plans, test strategies, and comprehensive documentation. This section explores the key aspects of test planning and documentation commonly assessed during these interviews.
@@ -75,3 +78,4 @@ In technical interviews for software testing roles, candidates are often evaluat
 ---
 
 Use these practice questions to evaluate your understanding of test planning and documentation concepts. Review the answers and explanations to reinforce your knowledge and excel in technical interviews.
+>>>>>>> main
