@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Coding/Test Data Management",
+  "id": "Coding/Test Data Management",
+  "title": "Test Data Management",
+  "description": "",
+  "source": "@site/docs/04 - Coding/02 - Test Data Management.md",
+  "sourceDirName": "04 - Coding",
+  "slug": "/Coding/Test Data Management",
+  "permalink": "/qa-handbook/docs/Coding/Test Data Management",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Automation Scripting",
+    "permalink": "/qa-handbook/docs/Coding/Automation Scripting"
+  },
+  "next": {
+    "title": "Code Review for Test Automation",
+    "permalink": "/qa-handbook/docs/Coding/Code Review for Test Automation"
+  }
+}

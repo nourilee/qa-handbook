@@ -1,0 +1,17 @@
+{
+  "unversionedId": "foundational-concepts-and-methodologies/fundamentals/fundamentals-sample-assessments",
+  "id": "foundational-concepts-and-methodologies/fundamentals/fundamentals-sample-assessments",
+  "title": "Practical Assessments on the Fundamentals of Software Testing",
+  "description": "",
+  "source": "@site/docs/foundational-concepts-and-methodologies/fundamentals/sample-assessments.md",
+  "sourceDirName": "foundational-concepts-and-methodologies/fundamentals",
+  "slug": "/foundational-concepts-and-methodologies/fundamentals/fundamentals-sample-assessments",
+  "permalink": "/qa-handbook/docs/foundational-concepts-and-methodologies/fundamentals/fundamentals-sample-assessments",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "fundamentals-sample-assessments",
+    "title": "Practical Assessments on the Fundamentals of Software Testing"
+  }
+}

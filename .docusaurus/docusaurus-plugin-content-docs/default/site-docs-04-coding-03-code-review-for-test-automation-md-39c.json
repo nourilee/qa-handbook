@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Coding/Code Review for Test Automation",
+  "id": "Coding/Code Review for Test Automation",
+  "title": "Code Review for Test Automation",
+  "description": "",
+  "source": "@site/docs/04 - Coding/03 - Code Review for Test Automation.md",
+  "sourceDirName": "04 - Coding",
+  "slug": "/Coding/Code Review for Test Automation",
+  "permalink": "/qa-handbook/docs/Coding/Code Review for Test Automation",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Test Data Management",
+    "permalink": "/qa-handbook/docs/Coding/Test Data Management"
+  },
+  "next": {
+    "title": "Tools and Frameworks",
+    "permalink": "/qa-handbook/docs/Coding/Tools and Frameworks"
+  }
+}

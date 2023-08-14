@@ -1,0 +1,35 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "title": "Introduction",
+  "description": "Welcome to the Software Tester/QA Handbook!",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/qa-handbook/docs/intro",
+  "draft": false,
+  "tags": [
+    {
+      "label": "Introduction",
+      "permalink": "/qa-handbook/docs/tags/introduction"
+    },
+    {
+      "label": "Getting started",
+      "permalink": "/qa-handbook/docs/tags/getting-started"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "intro",
+    "title": "Introduction",
+    "tags": [
+      "Introduction",
+      "Getting started"
+    ]
+  },
+  "sidebar": "mySidebar",
+  "next": {
+    "title": "Fundamentals of Software Testing",
+    "permalink": "/qa-handbook/docs/"
+  }
+}

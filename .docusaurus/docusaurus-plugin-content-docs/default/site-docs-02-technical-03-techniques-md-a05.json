@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Technical/Techniques",
+  "id": "Technical/Techniques",
+  "title": "Testing Techniques and Strategies",
+  "description": "In technical interviews for software testing roles, candidates are often asked about various testing techniques and strategies used to ensure the quality and reliability of software products. This section explores different testing approaches that are commonly assessed during these interviews.",
+  "source": "@site/docs/02 - Technical/03 - Techniques.md",
+  "sourceDirName": "02 - Technical",
+  "slug": "/Technical/Techniques",
+  "permalink": "/qa-handbook/docs/Technical/Techniques",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Conceptual Knowledge Assessment",
+    "permalink": "/qa-handbook/docs/Technical/Concepts"
+  },
+  "next": {
+    "title": "Automation",
+    "permalink": "/qa-handbook/docs/Technical/Automation"
+  }
+}

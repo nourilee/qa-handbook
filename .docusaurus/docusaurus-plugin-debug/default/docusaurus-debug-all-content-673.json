@@ -1,0 +1,637 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/qa-handbook/docs",
+          "tagsPath": "/qa-handbook/docs/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\nourilee\\Documents\\GitHub\\qa-handbook\\sidebars.js",
+          "contentPath": "C:\\Users\\nourilee\\Documents\\GitHub\\qa-handbook\\docs",
+          "contentPathLocalized": "C:\\Users\\nourilee\\Documents\\GitHub\\qa-handbook\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "unversionedId": "Coding/Automation Scripting",
+              "id": "Coding/Automation Scripting",
+              "title": "Automation Scripting",
+              "description": "",
+              "source": "@site/docs/04 - Coding/01 - Automation Scripting.md",
+              "sourceDirName": "04 - Coding",
+              "slug": "/Coding/Automation Scripting",
+              "permalink": "/qa-handbook/docs/Coding/Automation Scripting",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Coding Interviews for Test Automation",
+                "permalink": "/qa-handbook/docs/category/coding-interviews-for-test-automation"
+              },
+              "next": {
+                "title": "Test Data Management",
+                "permalink": "/qa-handbook/docs/Coding/Test Data Management"
+              }
+            },
+            {
+              "unversionedId": "Coding/CI and Version Control",
+              "id": "Coding/CI and Version Control",
+              "title": "Continuous Integration (CI) and Version Control",
+              "description": "",
+              "source": "@site/docs/04 - Coding/05 - CI and Version Control.md",
+              "sourceDirName": "04 - Coding",
+              "slug": "/Coding/CI and Version Control",
+              "permalink": "/qa-handbook/docs/Coding/CI and Version Control",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Tools and Frameworks",
+                "permalink": "/qa-handbook/docs/Coding/Tools and Frameworks"
+              },
+              "next": {
+                "title": "Coding Practice and Projects",
+                "permalink": "/qa-handbook/docs/Coding/Practice and Projects"
+              }
+            },
+            {
+              "unversionedId": "Coding/Code Review for Test Automation",
+              "id": "Coding/Code Review for Test Automation",
+              "title": "Code Review for Test Automation",
+              "description": "",
+              "source": "@site/docs/04 - Coding/03 - Code Review for Test Automation.md",
+              "sourceDirName": "04 - Coding",
+              "slug": "/Coding/Code Review for Test Automation",
+              "permalink": "/qa-handbook/docs/Coding/Code Review for Test Automation",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Test Data Management",
+                "permalink": "/qa-handbook/docs/Coding/Test Data Management"
+              },
+              "next": {
+                "title": "Tools and Frameworks",
+                "permalink": "/qa-handbook/docs/Coding/Tools and Frameworks"
+              }
+            },
+            {
+              "unversionedId": "Coding/Practice and Projects",
+              "id": "Coding/Practice and Projects",
+              "title": "Coding Practice and Projects",
+              "description": "",
+              "source": "@site/docs/04 - Coding/06 - Practice and Projects.md",
+              "sourceDirName": "04 - Coding",
+              "slug": "/Coding/Practice and Projects",
+              "permalink": "/qa-handbook/docs/Coding/Practice and Projects",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Continuous Integration (CI) and Version Control",
+                "permalink": "/qa-handbook/docs/Coding/CI and Version Control"
+              },
+              "next": {
+                "title": "Scenario-Based Assessments",
+                "permalink": "/qa-handbook/docs/category/scenario-based-assessments"
+              }
+            },
+            {
+              "unversionedId": "Coding/Test Data Management",
+              "id": "Coding/Test Data Management",
+              "title": "Test Data Management",
+              "description": "",
+              "source": "@site/docs/04 - Coding/02 - Test Data Management.md",
+              "sourceDirName": "04 - Coding",
+              "slug": "/Coding/Test Data Management",
+              "permalink": "/qa-handbook/docs/Coding/Test Data Management",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Automation Scripting",
+                "permalink": "/qa-handbook/docs/Coding/Automation Scripting"
+              },
+              "next": {
+                "title": "Code Review for Test Automation",
+                "permalink": "/qa-handbook/docs/Coding/Code Review for Test Automation"
+              }
+            },
+            {
+              "unversionedId": "Coding/Tools and Frameworks",
+              "id": "Coding/Tools and Frameworks",
+              "title": "Tools and Frameworks",
+              "description": "",
+              "source": "@site/docs/04 - Coding/04 - Tools and Frameworks.md",
+              "sourceDirName": "04 - Coding",
+              "slug": "/Coding/Tools and Frameworks",
+              "permalink": "/qa-handbook/docs/Coding/Tools and Frameworks",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Code Review for Test Automation",
+                "permalink": "/qa-handbook/docs/Coding/Code Review for Test Automation"
+              },
+              "next": {
+                "title": "Continuous Integration (CI) and Version Control",
+                "permalink": "/qa-handbook/docs/Coding/CI and Version Control"
+              }
+            },
+            {
+              "unversionedId": "Intro",
+              "id": "Intro",
+              "title": "Introduction",
+              "description": "Welcome to the Software Tester/QA Handbook!",
+              "source": "@site/docs/01 - Intro.md",
+              "sourceDirName": ".",
+              "slug": "/Intro",
+              "permalink": "/qa-handbook/docs/Intro",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Technical Interviews",
+                "permalink": "/qa-handbook/docs/category/technical-interviews"
+              }
+            },
+            {
+              "unversionedId": "Problem Solving/Defect Analysis and Reporting",
+              "id": "Problem Solving/Defect Analysis and Reporting",
+              "title": "Defect Analysis and Reporting",
+              "description": "",
+              "source": "@site/docs/03 - Problem Solving/02 - Defect Analysis and Reporting.md",
+              "sourceDirName": "03 - Problem Solving",
+              "slug": "/Problem Solving/Defect Analysis and Reporting",
+              "permalink": "/qa-handbook/docs/Problem Solving/Defect Analysis and Reporting",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Test Scenario Creation",
+                "permalink": "/qa-handbook/docs/Problem Solving/Test Scenario Creation"
+              },
+              "next": {
+                "title": "Test Case Refinement",
+                "permalink": "/qa-handbook/docs/Problem Solving/Test Case Refinement"
+              }
+            },
+            {
+              "unversionedId": "Problem Solving/Test Case Refinement",
+              "id": "Problem Solving/Test Case Refinement",
+              "title": "Test Case Refinement",
+              "description": "",
+              "source": "@site/docs/03 - Problem Solving/03 - Test Case Refinement.md",
+              "sourceDirName": "03 - Problem Solving",
+              "slug": "/Problem Solving/Test Case Refinement",
+              "permalink": "/qa-handbook/docs/Problem Solving/Test Case Refinement",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Defect Analysis and Reporting",
+                "permalink": "/qa-handbook/docs/Problem Solving/Defect Analysis and Reporting"
+              },
+              "next": {
+                "title": "Coding Interviews for Test Automation",
+                "permalink": "/qa-handbook/docs/category/coding-interviews-for-test-automation"
+              }
+            },
+            {
+              "unversionedId": "Problem Solving/Test Scenario Creation",
+              "id": "Problem Solving/Test Scenario Creation",
+              "title": "Test Scenario Creation",
+              "description": "",
+              "source": "@site/docs/03 - Problem Solving/01 - Test Scenario Creation.md",
+              "sourceDirName": "03 - Problem Solving",
+              "slug": "/Problem Solving/Test Scenario Creation",
+              "permalink": "/qa-handbook/docs/Problem Solving/Test Scenario Creation",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Problem-Solving Interviews",
+                "permalink": "/qa-handbook/docs/category/problem-solving-interviews"
+              },
+              "next": {
+                "title": "Defect Analysis and Reporting",
+                "permalink": "/qa-handbook/docs/Problem Solving/Defect Analysis and Reporting"
+              }
+            },
+            {
+              "unversionedId": "Scenarios/End-to-End Testing Scenarios",
+              "id": "Scenarios/End-to-End Testing Scenarios",
+              "title": "End-to-End Testing Scenarios",
+              "description": "",
+              "source": "@site/docs/05 - Scenarios/01 - End-to-End Testing Scenarios.md",
+              "sourceDirName": "05 - Scenarios",
+              "slug": "/Scenarios/End-to-End Testing Scenarios",
+              "permalink": "/qa-handbook/docs/Scenarios/End-to-End Testing Scenarios",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Scenario-Based Assessments",
+                "permalink": "/qa-handbook/docs/category/scenario-based-assessments"
+              },
+              "next": {
+                "title": "Regression Testing Scenarios",
+                "permalink": "/qa-handbook/docs/Scenarios/Regression Testing Scenarios"
+              }
+            },
+            {
+              "unversionedId": "Scenarios/Integration Testing Scenarios",
+              "id": "Scenarios/Integration Testing Scenarios",
+              "title": "Integration Testing Scenarios",
+              "description": "",
+              "source": "@site/docs/05 - Scenarios/03 - Integration Testing Scenarios.md",
+              "sourceDirName": "05 - Scenarios",
+              "slug": "/Scenarios/Integration Testing Scenarios",
+              "permalink": "/qa-handbook/docs/Scenarios/Integration Testing Scenarios",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Regression Testing Scenarios",
+                "permalink": "/qa-handbook/docs/Scenarios/Regression Testing Scenarios"
+              }
+            },
+            {
+              "unversionedId": "Scenarios/Regression Testing Scenarios",
+              "id": "Scenarios/Regression Testing Scenarios",
+              "title": "Regression Testing Scenarios",
+              "description": "",
+              "source": "@site/docs/05 - Scenarios/02 - Regression Testing Scenarios.md",
+              "sourceDirName": "05 - Scenarios",
+              "slug": "/Scenarios/Regression Testing Scenarios",
+              "permalink": "/qa-handbook/docs/Scenarios/Regression Testing Scenarios",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "End-to-End Testing Scenarios",
+                "permalink": "/qa-handbook/docs/Scenarios/End-to-End Testing Scenarios"
+              },
+              "next": {
+                "title": "Integration Testing Scenarios",
+                "permalink": "/qa-handbook/docs/Scenarios/Integration Testing Scenarios"
+              }
+            },
+            {
+              "unversionedId": "Technical/Automation",
+              "id": "Technical/Automation",
+              "title": "Test Automation",
+              "description": "",
+              "source": "@site/docs/02 - Technical/04 - Automation.md",
+              "sourceDirName": "02 - Technical",
+              "slug": "/Technical/Automation",
+              "permalink": "/qa-handbook/docs/Technical/Automation",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Testing Techniques and Strategies",
+                "permalink": "/qa-handbook/docs/Technical/Techniques"
+              },
+              "next": {
+                "title": "Test Planning and Documentation",
+                "permalink": "/qa-handbook/docs/Technical/Documentations"
+              }
+            },
+            {
+              "unversionedId": "Technical/Concepts",
+              "id": "Technical/Concepts",
+              "title": "Conceptual Knowledge Assessment",
+              "description": "",
+              "source": "@site/docs/02 - Technical/02 - Concepts.md",
+              "sourceDirName": "02 - Technical",
+              "slug": "/Technical/Concepts",
+              "permalink": "/qa-handbook/docs/Technical/Concepts",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Overview",
+                "permalink": "/qa-handbook/docs/Technical/Overview"
+              },
+              "next": {
+                "title": "Testing Techniques and Strategies",
+                "permalink": "/qa-handbook/docs/Technical/Techniques"
+              }
+            },
+            {
+              "unversionedId": "Technical/Documentations",
+              "id": "Technical/Documentations",
+              "title": "Test Planning and Documentation",
+              "description": "",
+              "source": "@site/docs/02 - Technical/05 - Documentations.md",
+              "sourceDirName": "02 - Technical",
+              "slug": "/Technical/Documentations",
+              "permalink": "/qa-handbook/docs/Technical/Documentations",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Test Automation",
+                "permalink": "/qa-handbook/docs/Technical/Automation"
+              },
+              "next": {
+                "title": "Performance and Security Testing",
+                "permalink": "/qa-handbook/docs/Technical/Non Functional"
+              }
+            },
+            {
+              "unversionedId": "Technical/Non Functional",
+              "id": "Technical/Non Functional",
+              "title": "Performance and Security Testing",
+              "description": "",
+              "source": "@site/docs/02 - Technical/06 - Non Functional.md",
+              "sourceDirName": "02 - Technical",
+              "slug": "/Technical/Non Functional",
+              "permalink": "/qa-handbook/docs/Technical/Non Functional",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Test Planning and Documentation",
+                "permalink": "/qa-handbook/docs/Technical/Documentations"
+              },
+              "next": {
+                "title": "Problem-Solving Interviews",
+                "permalink": "/qa-handbook/docs/category/problem-solving-interviews"
+              }
+            },
+            {
+              "unversionedId": "Technical/Overview",
+              "id": "Technical/Overview",
+              "title": "Overview",
+              "description": "",
+              "source": "@site/docs/02 - Technical/01 - Overview.md",
+              "sourceDirName": "02 - Technical",
+              "slug": "/Technical/Overview",
+              "permalink": "/qa-handbook/docs/Technical/Overview",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Technical Interviews",
+                "permalink": "/qa-handbook/docs/category/technical-interviews"
+              },
+              "next": {
+                "title": "Conceptual Knowledge Assessment",
+                "permalink": "/qa-handbook/docs/Technical/Concepts"
+              }
+            },
+            {
+              "unversionedId": "Technical/Techniques",
+              "id": "Technical/Techniques",
+              "title": "Testing Techniques and Strategies",
+              "description": "",
+              "source": "@site/docs/02 - Technical/03 - Techniques.md",
+              "sourceDirName": "02 - Technical",
+              "slug": "/Technical/Techniques",
+              "permalink": "/qa-handbook/docs/Technical/Techniques",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Conceptual Knowledge Assessment",
+                "permalink": "/qa-handbook/docs/Technical/Concepts"
+              },
+              "next": {
+                "title": "Test Automation",
+                "permalink": "/qa-handbook/docs/Technical/Automation"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "Intro"
+              },
+              {
+                "type": "category",
+                "label": "Technical Interviews",
+                "collapsible": true,
+                "collapsed": false,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Technical/Overview"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Technical/Concepts"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Technical/Techniques"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Technical/Automation"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Technical/Documentations"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Technical/Non Functional"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/technical-interviews",
+                  "permalink": "/qa-handbook/docs/category/technical-interviews"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Problem-Solving Interviews",
+                "collapsible": true,
+                "collapsed": false,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Problem Solving/Test Scenario Creation"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Problem Solving/Defect Analysis and Reporting"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Problem Solving/Test Case Refinement"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/problem-solving-interviews",
+                  "permalink": "/qa-handbook/docs/category/problem-solving-interviews"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Coding Interviews for Test Automation",
+                "collapsible": true,
+                "collapsed": false,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Coding/Automation Scripting"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Coding/Test Data Management"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Coding/Code Review for Test Automation"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Coding/Tools and Frameworks"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Coding/CI and Version Control"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Coding/Practice and Projects"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/coding-interviews-for-test-automation",
+                  "permalink": "/qa-handbook/docs/category/coding-interviews-for-test-automation"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Scenario-Based Assessments",
+                "collapsible": true,
+                "collapsed": false,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Scenarios/End-to-End Testing Scenarios"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Scenarios/Regression Testing Scenarios"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Scenarios/Integration Testing Scenarios"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/scenario-based-assessments",
+                  "permalink": "/qa-handbook/docs/category/scenario-based-assessments"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/qa-handbook/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/qa-handbook/practice",
+        "source": "@site/src/pages/practice.md",
+        "title": "Practice Your Skills 👩‍💻👨‍💻",
+        "description": "Welcome to the \"Practice Your Skills\" page, where you can enhance your software testing abilities through various interactive challenges and games. Sharpen your testing prowess and get ready to conquer technical assessments and interviews!",
+        "frontMatter": {}
+      },
+      {
+        "type": "mdx",
+        "permalink": "/qa-handbook/quick-guide",
+        "source": "@site/src/pages/quick-guide.md",
+        "title": "Quick Guide to Software Testing",
+        "description": "Software Testing Fundamentals:",
+        "frontMatter": {
+          "title": "Quick Guide to Software Testing"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

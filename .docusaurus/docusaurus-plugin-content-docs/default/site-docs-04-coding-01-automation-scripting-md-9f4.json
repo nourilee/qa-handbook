@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Coding/Automation Scripting",
+  "id": "Coding/Automation Scripting",
+  "title": "Automation Scripting",
+  "description": "",
+  "source": "@site/docs/04 - Coding/01 - Automation Scripting.md",
+  "sourceDirName": "04 - Coding",
+  "slug": "/Coding/Automation Scripting",
+  "permalink": "/qa-handbook/docs/Coding/Automation Scripting",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Coding Interviews for Test Automation",
+    "permalink": "/qa-handbook/docs/category/coding-interviews-for-test-automation"
+  },
+  "next": {
+    "title": "Test Data Management",
+    "permalink": "/qa-handbook/docs/Coding/Test Data Management"
+  }
+}

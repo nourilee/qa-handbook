@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Coding/Practice and Projects",
+  "id": "Coding/Practice and Projects",
+  "title": "Coding Practice and Projects",
+  "description": "",
+  "source": "@site/docs/04 - Coding/06 - Practice and Projects.md",
+  "sourceDirName": "04 - Coding",
+  "slug": "/Coding/Practice and Projects",
+  "permalink": "/qa-handbook/docs/Coding/Practice and Projects",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Continuous Integration (CI) and Version Control",
+    "permalink": "/qa-handbook/docs/Coding/CI and Version Control"
+  },
+  "next": {
+    "title": "Scenario-Based Assessments",
+    "permalink": "/qa-handbook/docs/category/scenario-based-assessments"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "label": "Introduction",
+  "permalink": "/qa-handbook/docs/tags/introduction",
+  "allTagsPath": "/qa-handbook/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "intro",
+      "title": "Introduction",
+      "description": "Welcome to the Software Tester/QA Handbook!",
+      "permalink": "/qa-handbook/docs/intro"
+    }
+  ]
+}

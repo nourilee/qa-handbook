@@ -1,0 +1,15 @@
+{
+  "title": "Scenario-Based Assessments",
+  "slug": "/category/scenario-based-assessments",
+  "permalink": "/qa-handbook/docs/category/scenario-based-assessments",
+  "navigation": {
+    "previous": {
+      "title": "Coding Practice and Projects",
+      "permalink": "/qa-handbook/docs/Coding/Practice and Projects"
+    },
+    "next": {
+      "title": "End-to-End Testing Scenarios",
+      "permalink": "/qa-handbook/docs/Scenarios/End-to-End Testing Scenarios"
+    }
+  }
+}

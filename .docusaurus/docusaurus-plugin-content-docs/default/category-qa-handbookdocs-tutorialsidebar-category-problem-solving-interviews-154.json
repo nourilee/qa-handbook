@@ -1,0 +1,15 @@
+{
+  "title": "Problem-Solving Interviews",
+  "slug": "/category/problem-solving-interviews",
+  "permalink": "/qa-handbook/docs/category/problem-solving-interviews",
+  "navigation": {
+    "previous": {
+      "title": "Non Functional",
+      "permalink": "/qa-handbook/docs/Technical/Non Functional"
+    },
+    "next": {
+      "title": "Test Scenario Creation",
+      "permalink": "/qa-handbook/docs/Problem Solving/Test Scenario Creation"
+    }
+  }
+}

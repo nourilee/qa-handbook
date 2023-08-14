@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Fundamentals/assets/test-plan-wishlist",
+  "id": "Fundamentals/assets/test-plan-wishlist",
+  "title": "Test Plan: Create Wish List",
+  "description": "Test Objective",
+  "source": "@site/docs/02 - Fundamentals/assets/test-plan-wishlist.md",
+  "sourceDirName": "02 - Fundamentals/assets",
+  "slug": "/Fundamentals/assets/test-plan-wishlist",
+  "permalink": "/qa-handbook/docs/Fundamentals/assets/test-plan-wishlist",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Processes and Principles",
+    "permalink": "/qa-handbook/docs/Fundamentals/Process"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/qa-handbook/docs/Technical/Overview"
+  }
+}

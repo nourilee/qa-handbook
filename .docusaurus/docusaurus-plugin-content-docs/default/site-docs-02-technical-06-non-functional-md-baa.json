@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Technical/Non Functional",
+  "id": "Technical/Non Functional",
+  "title": "Non Functional",
+  "description": "<<<<<<< HEAD",
+  "source": "@site/docs/02 - Technical/06 - Non Functional.md",
+  "sourceDirName": "02 - Technical",
+  "slug": "/Technical/Non Functional",
+  "permalink": "/qa-handbook/docs/Technical/Non Functional",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Documentations",
+    "permalink": "/qa-handbook/docs/Technical/Documentations"
+  },
+  "next": {
+    "title": "Problem-Solving Interviews",
+    "permalink": "/qa-handbook/docs/category/problem-solving-interviews"
+  }
+}

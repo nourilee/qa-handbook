@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Fundamentals/Overview",
+  "id": "Fundamentals/Overview",
+  "title": "Overview",
+  "description": "In the following section, you will explore the essential concepts and methodologies that form the bedrock of effective Quality Assurance practices. These topics are designed to equip QA professionals with a deep understanding of the principles and strategies used in software testing. By mastering these fundamental concepts, you will be better prepared to approach testing challenges with clarity and confidence in your day-to-day work.",
+  "source": "@site/docs/02 - Fundamentals/01 - Overview.md",
+  "sourceDirName": "02 - Fundamentals",
+  "slug": "/Fundamentals/Overview",
+  "permalink": "/qa-handbook/docs/Fundamentals/Overview",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Foundational Concepts and Methodologies",
+    "permalink": "/qa-handbook/docs/category/foundational-concepts-and-methodologies"
+  },
+  "next": {
+    "title": "Processes and Principles",
+    "permalink": "/qa-handbook/docs/Fundamentals/Process"
+  }
+}

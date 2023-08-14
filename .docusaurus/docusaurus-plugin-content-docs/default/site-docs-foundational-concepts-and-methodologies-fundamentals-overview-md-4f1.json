@@ -1,0 +1,23 @@
+{
+  "unversionedId": "foundational-concepts-and-methodologies/fundamentals/fundamentals-overview",
+  "id": "foundational-concepts-and-methodologies/fundamentals/fundamentals-overview",
+  "title": "Fundamentals of Software Testing",
+  "description": "Overview",
+  "source": "@site/docs/foundational-concepts-and-methodologies/fundamentals/overview.md",
+  "sourceDirName": "foundational-concepts-and-methodologies/fundamentals",
+  "slug": "/",
+  "permalink": "/qa-handbook/docs/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "fundamentals-overview",
+    "title": "Fundamentals of Software Testing",
+    "slug": "/"
+  },
+  "sidebar": "mySidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/qa-handbook/docs/intro"
+  }
+}

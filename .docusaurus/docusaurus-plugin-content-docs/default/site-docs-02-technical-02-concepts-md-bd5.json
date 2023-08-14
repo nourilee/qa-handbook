@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Technical/Concepts",
+  "id": "Technical/Concepts",
+  "title": "Conceptual Knowledge Assessment",
+  "description": "Fundamentals of Software Testing",
+  "source": "@site/docs/02 - Technical/02 - Concepts.md",
+  "sourceDirName": "02 - Technical",
+  "slug": "/Technical/Concepts",
+  "permalink": "/qa-handbook/docs/Technical/Concepts",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/qa-handbook/docs/Technical/Overview"
+  },
+  "next": {
+    "title": "Testing Techniques and Strategies",
+    "permalink": "/qa-handbook/docs/Technical/Techniques"
+  }
+}

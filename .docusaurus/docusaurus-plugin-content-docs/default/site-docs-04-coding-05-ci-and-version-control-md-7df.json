@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Coding/CI and Version Control",
+  "id": "Coding/CI and Version Control",
+  "title": "Continuous Integration (CI) and Version Control",
+  "description": "",
+  "source": "@site/docs/04 - Coding/05 - CI and Version Control.md",
+  "sourceDirName": "04 - Coding",
+  "slug": "/Coding/CI and Version Control",
+  "permalink": "/qa-handbook/docs/Coding/CI and Version Control",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tools and Frameworks",
+    "permalink": "/qa-handbook/docs/Coding/Tools and Frameworks"
+  },
+  "next": {
+    "title": "Coding Practice and Projects",
+    "permalink": "/qa-handbook/docs/Coding/Practice and Projects"
+  }
+}

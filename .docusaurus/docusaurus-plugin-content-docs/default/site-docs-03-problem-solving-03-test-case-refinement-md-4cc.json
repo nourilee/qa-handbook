@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Problem Solving/Test Case Refinement",
+  "id": "Problem Solving/Test Case Refinement",
+  "title": "Test Case Refinement",
+  "description": "",
+  "source": "@site/docs/03 - Problem Solving/03 - Test Case Refinement.md",
+  "sourceDirName": "03 - Problem Solving",
+  "slug": "/Problem Solving/Test Case Refinement",
+  "permalink": "/qa-handbook/docs/Problem Solving/Test Case Refinement",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Defect Analysis and Reporting",
+    "permalink": "/qa-handbook/docs/Problem Solving/Defect Analysis and Reporting"
+  },
+  "next": {
+    "title": "Coding Interviews for Test Automation",
+    "permalink": "/qa-handbook/docs/category/coding-interviews-for-test-automation"
+  }
+}

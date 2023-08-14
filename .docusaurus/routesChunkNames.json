@@ -1,0 +1,122 @@
+{
+  "/qa-handbook/practice-b5c": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "d8143589"
+    },
+    "content": "563f7604"
+  },
+  "/qa-handbook/quick-guide-bcb": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "d8143589"
+    },
+    "content": "71696f9a"
+  },
+  "/qa-handbook/docs-acb": {
+    "__comp": "1be78505",
+    "__context": {
+      "plugin": "97435e16"
+    },
+    "versionMetadata": "935f2afb"
+  },
+  "/qa-handbook/docs/category/coding-interviews-for-test-automation-8a7": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "4570fdc6"
+  },
+  "/qa-handbook/docs/category/problem-solving-interviews-50f": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "ddd96bb2"
+  },
+  "/qa-handbook/docs/category/scenario-based-assessments-b7c": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "fd9218b7"
+  },
+  "/qa-handbook/docs/category/technical-interviews-be6": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "0e386ede"
+  },
+  "/qa-handbook/docs/Coding/Automation Scripting-bb4": {
+    "__comp": "17896441",
+    "content": "9f46a2a1"
+  },
+  "/qa-handbook/docs/Coding/CI and Version Control-84f": {
+    "__comp": "17896441",
+    "content": "7dfda73c"
+  },
+  "/qa-handbook/docs/Coding/Code Review for Test Automation-926": {
+    "__comp": "17896441",
+    "content": "39ccd882"
+  },
+  "/qa-handbook/docs/Coding/Practice and Projects-41d": {
+    "__comp": "17896441",
+    "content": "bf535325"
+  },
+  "/qa-handbook/docs/Coding/Test Data Management-7e9": {
+    "__comp": "17896441",
+    "content": "9a05b97f"
+  },
+  "/qa-handbook/docs/Coding/Tools and Frameworks-091": {
+    "__comp": "17896441",
+    "content": "555261ff"
+  },
+  "/qa-handbook/docs/Intro-933": {
+    "__comp": "17896441",
+    "content": "cfa28a3d"
+  },
+  "/qa-handbook/docs/Problem Solving/Defect Analysis and Reporting-121": {
+    "__comp": "17896441",
+    "content": "57eaeb8c"
+  },
+  "/qa-handbook/docs/Problem Solving/Test Case Refinement-d99": {
+    "__comp": "17896441",
+    "content": "4cc6962d"
+  },
+  "/qa-handbook/docs/Problem Solving/Test Scenario Creation-a3f": {
+    "__comp": "17896441",
+    "content": "6f6468ad"
+  },
+  "/qa-handbook/docs/Scenarios/End-to-End Testing Scenarios-527": {
+    "__comp": "17896441",
+    "content": "b2130ff1"
+  },
+  "/qa-handbook/docs/Scenarios/Integration Testing Scenarios-05a": {
+    "__comp": "17896441",
+    "content": "8934e1ce"
+  },
+  "/qa-handbook/docs/Scenarios/Regression Testing Scenarios-fee": {
+    "__comp": "17896441",
+    "content": "72734468"
+  },
+  "/qa-handbook/docs/Technical/Automation-98f": {
+    "__comp": "17896441",
+    "content": "1a18bb4c"
+  },
+  "/qa-handbook/docs/Technical/Concepts-6f8": {
+    "__comp": "17896441",
+    "content": "bd54a8d5"
+  },
+  "/qa-handbook/docs/Technical/Documentations-58a": {
+    "__comp": "17896441",
+    "content": "f5d40bf9"
+  },
+  "/qa-handbook/docs/Technical/Non Functional-d65": {
+    "__comp": "17896441",
+    "content": "baacddb6"
+  },
+  "/qa-handbook/docs/Technical/Overview-3f9": {
+    "__comp": "17896441",
+    "content": "038922b5"
+  },
+  "/qa-handbook/docs/Technical/Techniques-885": {
+    "__comp": "17896441",
+    "content": "a051d975"
+  },
+  "/qa-handbook/-1d9": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "d8143589"
+    },
+    "config": "5e9f5e1a"
+  }
+}

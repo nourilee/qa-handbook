@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Fundamentals/Process",
+  "id": "Fundamentals/Process",
+  "title": "Processes and Principles",
+  "description": "Software Development Life Cycle (SDLC)",
+  "source": "@site/docs/02 - Fundamentals/02 - Process.md",
+  "sourceDirName": "02 - Fundamentals",
+  "slug": "/Fundamentals/Process",
+  "permalink": "/qa-handbook/docs/Fundamentals/Process",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/qa-handbook/docs/Fundamentals/Overview"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/qa-handbook/docs/Technical/Overview"
+  }
+}

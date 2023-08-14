@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Problem Solving/Test Scenario Creation",
+  "id": "Problem Solving/Test Scenario Creation",
+  "title": "Test Scenario Creation",
+  "description": "",
+  "source": "@site/docs/03 - Problem Solving/01 - Test Scenario Creation.md",
+  "sourceDirName": "03 - Problem Solving",
+  "slug": "/Problem Solving/Test Scenario Creation",
+  "permalink": "/qa-handbook/docs/Problem Solving/Test Scenario Creation",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Problem-Solving Interviews",
+    "permalink": "/qa-handbook/docs/category/problem-solving-interviews"
+  },
+  "next": {
+    "title": "Defect Analysis and Reporting",
+    "permalink": "/qa-handbook/docs/Problem Solving/Defect Analysis and Reporting"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "mdx",
+  "permalink": "/qa-handbook/quick-guide",
+  "source": "@site/src/pages/quick-guide.md",
+  "title": "Quick Guide to Software Testing",
+  "description": "Software Testing Fundamentals:",
+  "frontMatter": {
+    "title": "Quick Guide to Software Testing"
+  }
+}

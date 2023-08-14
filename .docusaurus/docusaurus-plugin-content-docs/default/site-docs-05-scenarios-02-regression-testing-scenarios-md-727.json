@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Scenarios/Regression Testing Scenarios",
+  "id": "Scenarios/Regression Testing Scenarios",
+  "title": "Regression Testing Scenarios",
+  "description": "",
+  "source": "@site/docs/05 - Scenarios/02 - Regression Testing Scenarios.md",
+  "sourceDirName": "05 - Scenarios",
+  "slug": "/Scenarios/Regression Testing Scenarios",
+  "permalink": "/qa-handbook/docs/Scenarios/Regression Testing Scenarios",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "End-to-End Testing Scenarios",
+    "permalink": "/qa-handbook/docs/Scenarios/End-to-End Testing Scenarios"
+  },
+  "next": {
+    "title": "Integration Testing Scenarios",
+    "permalink": "/qa-handbook/docs/Scenarios/Integration Testing Scenarios"
+  }
+}

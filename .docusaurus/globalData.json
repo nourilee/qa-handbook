@@ -1,0 +1,143 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/qa-handbook/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/qa-handbook/docs",
+          "mainDocId": "Intro",
+          "docs": [
+            {
+              "id": "Coding/Automation Scripting",
+              "path": "/qa-handbook/docs/Coding/Automation Scripting",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Coding/CI and Version Control",
+              "path": "/qa-handbook/docs/Coding/CI and Version Control",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Coding/Code Review for Test Automation",
+              "path": "/qa-handbook/docs/Coding/Code Review for Test Automation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Coding/Practice and Projects",
+              "path": "/qa-handbook/docs/Coding/Practice and Projects",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Coding/Test Data Management",
+              "path": "/qa-handbook/docs/Coding/Test Data Management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Coding/Tools and Frameworks",
+              "path": "/qa-handbook/docs/Coding/Tools and Frameworks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Intro",
+              "path": "/qa-handbook/docs/Intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Problem Solving/Defect Analysis and Reporting",
+              "path": "/qa-handbook/docs/Problem Solving/Defect Analysis and Reporting",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Problem Solving/Test Case Refinement",
+              "path": "/qa-handbook/docs/Problem Solving/Test Case Refinement",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Problem Solving/Test Scenario Creation",
+              "path": "/qa-handbook/docs/Problem Solving/Test Scenario Creation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Scenarios/End-to-End Testing Scenarios",
+              "path": "/qa-handbook/docs/Scenarios/End-to-End Testing Scenarios",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Scenarios/Integration Testing Scenarios",
+              "path": "/qa-handbook/docs/Scenarios/Integration Testing Scenarios",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Scenarios/Regression Testing Scenarios",
+              "path": "/qa-handbook/docs/Scenarios/Regression Testing Scenarios",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Technical/Automation",
+              "path": "/qa-handbook/docs/Technical/Automation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Technical/Concepts",
+              "path": "/qa-handbook/docs/Technical/Concepts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Technical/Documentations",
+              "path": "/qa-handbook/docs/Technical/Documentations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Technical/Non Functional",
+              "path": "/qa-handbook/docs/Technical/Non Functional",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Technical/Overview",
+              "path": "/qa-handbook/docs/Technical/Overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Technical/Techniques",
+              "path": "/qa-handbook/docs/Technical/Techniques",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/technical-interviews",
+              "path": "/qa-handbook/docs/category/technical-interviews",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/problem-solving-interviews",
+              "path": "/qa-handbook/docs/category/problem-solving-interviews",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/coding-interviews-for-test-automation",
+              "path": "/qa-handbook/docs/category/coding-interviews-for-test-automation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/scenario-based-assessments",
+              "path": "/qa-handbook/docs/category/scenario-based-assessments",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/qa-handbook/docs/Intro",
+                "label": "Intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
