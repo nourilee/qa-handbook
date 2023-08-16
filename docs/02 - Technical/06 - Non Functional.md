@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+# Performance and Security Testing
+=======
 # Performance and Security Testing
 
 In technical interviews for software testing roles, candidates are often questioned about their understanding of performance and security testing concepts, methodologies, and best practices. This section covers the key aspects of performance and security testing that are commonly assessed during these interviews.
@@ -85,3 +88,4 @@ In technical interviews for software testing roles, candidates are often questio
 ---
 
 Use these practice questions to evaluate your understanding of performance and security testing concepts. Review the answers and explanations to strengthen your knowledge and succeed in technical interviews.
+>>>>>>> main

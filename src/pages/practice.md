@@ -26,6 +26,16 @@ Refine your skills in identifying CSS and XPath selectors through engaging onlin
 
 - Play [CSS Diner](https://flukeout.github.io/) and [Xpath Adventure](https://topswagcode.com/xpath/) to become a selector master!
 
+## 5. Suggested Demo Sites for Automation Practice 💻
+
+- [The Internet](http://the-internet.herokuapp.com/) - A demo site built for practicing various types of automation tests.
+- [Automation Practice](http://automationpractice.com/) - An online clothing store for practicing e-commerce automation.
+- [OrangeHRM Demo](https://opensource-demo.orangehrmlive.com/) - An HR management system for testing HR-related scenarios.
+- [Swag Labs](https://www.saucedemo.com/) - A retail demo site for practicing e-commerce application automation.
+- [The Playground](https://play1.automationcamp.ir) - A collection of web pages that has a set of UI elements that the automation framework can interact with.
+- [Practice Automation](https://practice-automation.com) - An automation testing practice website designed to be a one-stop place to practice your web automation skills.
+
+
 ---
 
 Use these resources to immerse yourself in hands-on practice, enhance your technical skills, and bolster your confidence for software testing assessments and interviews. Happy learning and testing! 🧪🔍🎮
