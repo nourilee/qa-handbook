@@ -29,7 +29,7 @@ Refine your skills in identifying CSS and XPath selectors through engaging onlin
 ## 5. Suggested Demo Sites for Automation Practice 💻
 
 - [The Internet](http://the-internet.herokuapp.com/) - A demo site built for practicing various types of automation tests.
-- [Automation Practice](http://automationpractice.com/) - An online clothing store for practicing e-commerce automation.
+- [QA Practice](https://qa-practice.netlify.app/) - QA-Practice app is designed to sharpen your manual and automation testing skills.
 - [OrangeHRM Demo](https://opensource-demo.orangehrmlive.com/) - An HR management system for testing HR-related scenarios.
 - [Swag Labs](https://www.saucedemo.com/) - A retail demo site for practicing e-commerce application automation.
 - [The Playground](https://play1.automationcamp.ir) - A collection of web pages that has a set of UI elements that the automation framework can interact with.
