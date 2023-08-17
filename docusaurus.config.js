@@ -8,6 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'QA Handbook',
   tagline: 'A Personal Guide to Mastering QA Excellence, Interviews, and Beyond!',
+  favicon: 'img/girl-coder.ico',
 
   // Set the production url of your site here
   url: 'https://nourilee.github.io',
