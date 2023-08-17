@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Test Automation
-=======
 # Test Automation
 
 In technical interviews for software testing roles, candidates are often questioned about test automation concepts, tools, frameworks, and best practices. This section explores the key aspects of test automation that are commonly assessed during these interviews.
@@ -139,7 +136,7 @@ Writing robust and reliable automated tests is essential to avoid flaky tests (t
    - C) WebDriverIO
    - D) Appium
 
-## Practice Answers
+## Practice Questions - Answers
 
 1. **Answer: C**
    - Explanation: JavaScript is commonly used for web automation and integrates well with browser environments.
@@ -156,4 +153,3 @@ Writing robust and reliable automated tests is essential to avoid flaky tests (t
 ---
 
 Use these practice questions to assess your knowledge of test automation concepts. Review the answers and explanations to reinforce your understanding and excel in technical interviews.
->>>>>>> main
