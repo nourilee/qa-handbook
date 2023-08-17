@@ -9,7 +9,7 @@ This QA Handbook is designed to empower Quality Assurance (QA) Engineers, both m
 
 <div align="center">
   <h3>
-    <a href="https://nourilee.github.io/qa-handbook/">Get Started!</a>
+    <a href="https://nourilee.github.io/qa-handbook/" target="_blank">Get Started!</a>
   </h3>
 </div>
 
