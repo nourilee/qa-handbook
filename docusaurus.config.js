@@ -118,7 +118,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} QA Handbook. Built with Docusaurus.`,
+        copyright: `Content powered by ChatGPT AI. Copyright © ${new Date().getFullYear()} QA Handbook. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
