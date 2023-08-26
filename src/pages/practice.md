@@ -34,6 +34,7 @@ Refine your skills in identifying CSS and XPath selectors through engaging onlin
 - [Swag Labs](https://www.saucedemo.com/) - A retail demo site for practicing e-commerce application automation.
 - [The Playground](https://play1.automationcamp.ir) - A collection of web pages that has a set of UI elements that the automation framework can interact with.
 - [Practice Automation](https://practice-automation.com) - An automation testing practice website designed to be a one-stop place to practice your web automation skills.
+- [UI Playground](http://uitestingplayground.com/) - A practice website designed to provide a platform for sharpening UI test automation skills. 
 
 
 ---
