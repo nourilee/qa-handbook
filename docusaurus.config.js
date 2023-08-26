@@ -109,11 +109,7 @@ const config = {
             items: [
               {
                 label: 'About Me',
-                href: 'https://nourilee.github.io/about-me/',
-              },
-              {
-                label: 'My Portfolio',
-                href: 'https://github.com/santosn-qa',
+                href: 'https://github.com/santosn-qa/about-me',
               },
             ],
           },
